@@ -52,8 +52,8 @@ A biometric authentication system for computer-based testing, ensuring secure st
 ### 🛒 E-Commerce Website with WooCommerce  
 A full-featured online store built with WordPress and WooCommerce.  
 **Highlights:**
-- Secure payment integration
-- Custom themes and plugins
+- Secure payment integration  
+- Custom themes and plugins  
 - Inventory management and SEO optimization
 
 ---
@@ -62,8 +62,8 @@ A full-featured online store built with WordPress and WooCommerce.
 Manages thrift savings with Paystack integration for secure transactions.  
 **Stack:** FastAPI (Backend), Reflex (Frontend)  
 **Key Features:**
-- Real-time balance calculation
-- Toast notifications for errors
+- Real-time balance calculation  
+- Toast notifications for errors  
 - Secure Paystack callback handling
 
 ---
@@ -72,8 +72,8 @@ Manages thrift savings with Paystack integration for secure transactions.
 Embed and extract hidden data in images for secure communication.  
 **Tech Stack:** Python, Pillow, PyQt  
 **Features:**
-- High-capacity data embedding
-- Optional encryption
+- High-capacity data embedding  
+- Optional encryption  
 - User-friendly cross-platform interface
 
 ---
@@ -82,8 +82,8 @@ Embed and extract hidden data in images for secure communication.
 Built for Deeper Life Bible Church to manage attendance, offerings, and fellowship activities.  
 **Stack:** FastAPI, Pydantic, Reflex  
 **Features:**
-- Hierarchical location-based tracking
-- Role-based access control (9 levels)
+- Hierarchical location-based tracking  
+- Role-based access control (9 levels)  
 - Statistical dashboard with branding support
 
 ---
@@ -92,8 +92,8 @@ Built for Deeper Life Bible Church to manage attendance, offerings, and fellowsh
 A health-tech app for generating nutrition plans tailored to medical data and deficiencies.  
 **Tech Stack:** FastAPI (API), Reflex (UI), USDA FoodData API  
 **Focus:**
-- Accurate nutritional calculations
-- Respect for user privacy
+- Accurate nutritional calculations  
+- Respect for user privacy  
 - Clean UI for health data entry
 
 ---
@@ -102,8 +102,8 @@ A health-tech app for generating nutrition plans tailored to medical data and de
 A custom login and dashboard system for Youyeetoo X1, running Ubuntu Server.  
 **Tech Stack:** PySide6, Plymouth, VirtualBox, nodm  
 **Challenges Solved:**
-- Splash image scaling (800x450)
-- Dependency handling (e.g., `libxcb`)
+- Splash image scaling (800x450)  
+- Dependency handling (e.g., `libxcb`)  
 - Seamless auto-login via nodm
 
 ---
@@ -112,7 +112,9 @@ A custom login and dashboard system for Youyeetoo X1, running Ubuntu Server.
 
 - 📧 **Email:** [meshelleva@gmail.com](mailto:meshelleva@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/micheal-olorundare](https://linkedin.com/in/micheal-olorundare)  
-- 🐦 **Twitter/X:** [@MichealEvayoung](https://x.com/MichealEvayoung)
+- 🐦 **Twitter/X:** [@MichealEvayoung](https://x.com/MichealEvayoung)  
+- 💬 **WhatsApp:** [+234 902 995 2120](https://wa.me/2349029952120)  
+<!-- 🌐 Portfolio: yourportfolio.com -->
 
 ---
 
