@@ -17,7 +17,7 @@ I enjoy tackling challenges in domains like **health tech, e-commerce, education
 
 ## 🛠️ Skills
 
-- **Languages:** Python, JavaScript *(exploratory)*, HTML, CSS, PHP *(exploratory)*
+- **Languages:** Python, JavaScript *(exploratory)*, HTML, CSS
 - **Frameworks & Libraries:** FastAPI, Reflex, Kivy/KivyMD, PyQt, PySide, Flet, FastHTML, Flask, Pydantic, WordPress, Joomla, WooCommerce  
 - **Tools & Platforms:** Git, GitHub, Buildozer, Docker, VirtualBox, Plymouth, SQLite, PostgreSQL, MongoDB, cPanel  
 - **Expertise Areas:** REST API development, backend architecture, AI agent development, mobile app development, SQL & NoSQL databases, CMS, e-commerce, offline-first apps, biometric authentication  
